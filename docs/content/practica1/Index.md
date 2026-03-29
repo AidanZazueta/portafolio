@@ -2,7 +2,12 @@
 date = '2026-03-13T19:22:07-07:00'
 draft = false
 title = 'Practica1: Cola de impresion en Lenguaje C'
-+++
++++<br>
+**Universidad Autonoma de Baja California** <br>
+**Materia**: Paradigmas de la programacion <br>
+**Docente**: Jose Carlos Gallegos Mariscal <br>
+**Alumno**: Zazueta Medrano Aidan <br>
+**Matricula**: 379479
 # <center> Practica 1: Cola de impresion en Lenguaje C </center>
 ## Introducción: 
 En esta practica implementamos colas en lenguaje C de dos diferentes maneras, con memoria estatica y con memoria dinamica. El uso de colas nos permite gestionar datos en un orden secuencial, de modo que el primer dato que entra, es el primer dato en salir. Son excelentes para manejar recursos, evitar bloqueos y optimizar tiempos de espera.
