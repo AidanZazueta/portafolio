@@ -8,8 +8,7 @@ title = 'Practica2'
 **Docente**: Jose Carlos Gallegos Mariscal <br>
 **Alumno**: Zazueta Medrano Aidan <br>
 **Matricula**: 379479
-# <center>Practica 2: Programacion Orientada a Objetos (simulación de sistema de estacionamiento)</center>
-
+# Practica 2: Programacion Orientada a Objetos (simulación de sistema de estacionamiento)
 ## Introducción:
 En esta práctica desarrollamos una simulación de un sistema de estacionamiento aplicando conocimientos del paradigma de Programacion Orientado a Objetos. Es un sistema sencillo en el que permite marcar entradas y salidas de vehiculos, calcular el cobro segun el tiempo que hayan estado y consultar cual es el estado del estacionamiento.
 

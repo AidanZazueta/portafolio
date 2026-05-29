@@ -8,7 +8,7 @@ title = 'Practica1: Cola de impresion en Lenguaje C'
 **Docente**: Jose Carlos Gallegos Mariscal <br>
 **Alumno**: Zazueta Medrano Aidan <br>
 **Matricula**: 379479
-# <center> Practica 1: Cola de impresion en Lenguaje C </center>
+# Practica 1: Cola de impresion en Lenguaje C
 ## Introducción: 
 En esta practica implementamos colas en lenguaje C de dos diferentes maneras, con memoria estatica y con memoria dinamica. El uso de colas nos permite gestionar datos en un orden secuencial, de modo que el primer dato que entra, es el primer dato en salir. Son excelentes para manejar recursos, evitar bloqueos y optimizar tiempos de espera.
 
@@ -248,28 +248,28 @@ Función exclusiva de la cola dinámica. Recorre todos los nodos liberando su me
 
 ## Simulacion
 ### Codigo 2
-![code2](code2_1.png)
+![code2_1](code2_1.png)
 
-![code2](code2_2.png)
+![code2_2](code2_2.png)
 
-![code2](code2_3.png)
+![code2_3](code2_3.png)
 
-![code2](code2_4.png)
+![code2_4](code2_4.png)
 
-![code2](code2_5.png)
+![code2_5](code2_5.png)
 ### Codigo 3
-La implementacion del delay por ms se logro con la libreria <window.h>, con ella utilizamos la funcion `Sleep(ms)`
-![code3](code3_1.png)
+La implementacion del delay por ms se logro con la libreria `<window.h>`, con ella utilizamos la funcion `Sleep(ms)`
+![code3_1](code3_1.png)
 
-![code3](code3_2.png)
+![code3_2](code3_2.png)
 
-![code3](code3_3.png)
+![code3_3](code3_3.png)
 
-![code3](code3_4.png)
+![code3_4](code3_4.png)
 
-![code3](code3_5.png)
+![code3_5](code3_5.png)
 
-![code3](code3_6.png)
+![code3_6](code3_6.png)
 
-## Conclusion
+## Conclusión
 En lo personal puedo decir que me gusto mucho esta practica, refuerza bastantes de los conocimientos que aprendimos en la materia de Estructuras de Datos, y de hecho creo que los aplico mejor en esta practica. Como critica personal me quedo claro que no debo dejar las practica para el ultimo dia, creo que pude haber puesto mas atencion al detalle si lo hubiera realizado con calma.

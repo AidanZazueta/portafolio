@@ -2,13 +2,13 @@
 date = '2026-05-01T16:58:32-07:00'
 draft = false
 title = 'Practica3'
-+++ 
++++ <br>
 **Universidad Autonoma de Baja California** <br>
 **Materia**: Paradigmas de la programacion <br>
 **Docente**: Jose Carlos Gallegos Mariscal <br>
 **Alumno**: Zazueta Medrano Aidan <br>
 **Matricula**: 379479
-# <center>Practica 3: Paradigma funcional</center>
+# Practica 3: Paradigma funcional
 ## Introducción
 Para esta practica utilizaremos el lenguaje de programación haskell. Instalamos y utilizaremos todas las funciones que nos ofrece su pagina web, desde el compilador hasta su interprete. <br>
 Para descargarlo e implentarlo es bastante sencillo, la pagina de haskell te ofrece un script que puedes ejecutar direcamente en la linea de comando, esto instalara los siguientes elementos:

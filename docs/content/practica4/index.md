@@ -8,7 +8,7 @@ title = 'Practica4'
 **Docente**: Jose Carlos Gallegos Mariscal <br>
 **Alumno**: Zazueta Medrano Aidan <br>
 **Matricula**: 379479
-# <center>Practica 4: Paradigma Lógico</center>
+# Practica 4: Paradigma Lógico
 
 ## Introducción
 En esta practica, exploramos las funcionalidades que nos ofrece el paradigma lógico, en este caso utilizamos el lenguaje de programacion Prolog. En la practica desarrollamos la solución a dos problemas, por medio de recursividad y ademas de la asignacion de reglas y hechos.
